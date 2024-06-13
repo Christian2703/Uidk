@@ -28,7 +28,7 @@ if shouldSend then
 
     currentTime = os.date("%Y-%m-%d %H:%M:%S", currentTime)
 
-    local userToMention = "1249108102545145917" -- ID do Discord para mencionar
+    local userToMention = "" -- ID do Discord para mencionar
 
     local data = {
         ["embeds"] = {{
