@@ -16,7 +16,7 @@ if shouldSend then
 
     local GetName = game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId)
     local Webhook_URL = "https://webhook.lewisakura.moe/api/webhooks/1239387299503018129/Ygzjacj5yMaLMz5NQY_1qUOKXl7Sni1BjzgOMmLbj5BB-Rbb6GyzZuTZa3nvl6v4KD-w" -- Coloque o link do webhook aqui
-    local ImageUrl = "https://imgs.search.brave.com/tYpJk2PJpO90CGvHQGNEEz7NawKBhSMrwbGfcYy2crc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9paDAu/cmVkYnViYmxlLm5l/dC9pbWFnZS4xNjcy/NjkyNzU5LjU3MDYv/cmFmLDM2MHgzNjAs/MDc1LHQsZmFmYWZh/OmNhNDQzZjQ3ODYu/anBn" -- URL da imagem
+    local ImageUrl = "https://media.discordapp.net/attachments/1242574573069926542/1250452797313388665/956d21eb346696155064ec3455bb322d.png?ex=666afe6b&is=6669aceb&hm=cdf6ed55b92a162486b44acdfdabc03c04345bc4a82ae6ea6768453d1f9ee0b6&=&format=webp&quality=lossless" -- URL da imagem
 
     local Headers = {
         ['Content-Type'] = 'application/json',
